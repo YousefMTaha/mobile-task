@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mobile_Task</string>
+    <string name="typeOfDishText">Type of Dish</string>
+    <string name="extrasTextView">Extra</string>
+
+    <string-array name="typesOfDish">
+        <item>Main Course</item>
+        <item>Side Dish</item>
+        <item>Drink</item>
+    </string-array>
+    <string name="optionText">Options</string>
+    <string-array name="mainCourseOptions">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Pasta</item>
+    </string-array>
+    <string-array name="sideDishOptions">
+        <item>Mash Potato</item>
+        <item>French Fries</item>
+        <item>Soup</item>
+    </string-array>
+    <string-array name="drinkOptions">
+        <item>Fizzy Drink</item>
+        <item>Hot Drink</item>
+        <item>Water</item>
+    </string-array>
+    <string name="addToOrderButton">Add to order</string>
+    <string name="finishOrderButton">Finish order</string>
+    <string name="sizeTextView">Size</string>
+    <string-array name="sizeOptions">
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string name="quantityEditTextHint">Enter Quantity</string>
+    <string-array name="extraOptions">
+        <item>Sauce</item>
+        <item>Cheese</item>
+        <item>Without Extra</item>
+    </string-array>
+    <string name="submitButton">Submit</string>
+    <string name="submitOrder">Order Submitted Successfully</string>
+    <string name="orderPriceTextView">Order Price</string>
+    <string name="costTextView">Total Price</string>
+    <string name="initPrice">0.0</string>
+</resources>
